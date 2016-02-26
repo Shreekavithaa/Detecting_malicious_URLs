@@ -1,0 +1,36 @@
+Address bar features removed----------
+The mean for 2 fold is:
+81.7803510042
+The mean for 3 fold is:
+86.99933115
+The mean for 4 fold is:
+88.1299355553
+The mean for 5 fold is:
+90.6000683542
+Abnormal features removed------
+The mean for 2 fold is:
+83.2187443459
+The mean for 3 fold is:
+89.957666509
+The mean for 4 fold is:
+90.3645076321
+The mean for 5 fold is:
+92.8165752889
+HTML Javascript features removed--------
+The mean for 2 fold is:
+88.1852722996
+The mean for 3 fold is:
+94.1103730189
+The mean for 4 fold is:
+94.1914861884
+The mean for 5 fold is:
+95.2229924012
+Domain based features removed--------
+The mean for 2 fold is:
+89.2708521802
+The mean for 3 fold is:
+93.8754971564
+The mean for 4 fold is:
+94.2011464813
+The mean for 5 fold is:
+94.626345852

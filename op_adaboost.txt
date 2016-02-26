@@ -1,0 +1,293 @@
+Address bar features removed----------
+Nearest Neighbors ------------------
+The mean for 2 fold is:
+77.1485435137
+The mean for 3 fold is:
+84.4391849852
+The mean for 4 fold is:
+85.0539261054
+The mean for 5 fold is:
+87.3431157663
+Linear SVM ------------------
+The mean for 2 fold is:
+81.8255834992
+The mean for 3 fold is:
+83.2004669182
+The mean for 4 fold is:
+84.0414318211
+The mean for 5 fold is:
+85.9324971195
+RBF SVM ------------------
+The mean for 2 fold is:
+68.0568120138
+The mean for 3 fold is:
+82.1594549216
+The mean for 4 fold is:
+82.0862880539
+The mean for 5 fold is:
+87.1080426743
+Decision Tree ------------------
+The mean for 2 fold is:
+82.3412339425
+The mean for 3 fold is:
+85.4621007096
+The mean for 4 fold is:
+84.0777520345
+The mean for 5 fold is:
+85.6609466039
+Random Forest ------------------
+The mean for 2 fold is:
+81.5813280261
+The mean for 3 fold is:
+84.1864657563
+The mean for 4 fold is:
+76.1243389361
+The mean for 5 fold is:
+83.1999156828
+AdaBoost ------------------
+The mean for 2 fold is:
+84.0600687534
+The mean for 3 fold is:
+86.7377111089
+The mean for 4 fold is:
+87.1809451754
+The mean for 5 fold is:
+87.7690199762
+Naive Bayes ------------------
+The mean for 2 fold is:
+76.2348471142
+The mean for 3 fold is:
+80.757956344
+The mean for 4 fold is:
+81.2914989946
+The mean for 5 fold is:
+82.748147375
+Linear Discriminant Analysis ------------------
+The mean for 2 fold is:
+81.0113985887
+The mean for 3 fold is:
+84.1502781228
+The mean for 4 fold is:
+84.9010767675
+The mean for 5 fold is:
+86.2400052391
+Abnormal features removed------
+Nearest Neighbors ------------------
+The mean for 2 fold is:
+80.0886556902
+The mean for 3 fold is:
+87.5243268408
+The mean for 4 fold is:
+87.4060846686
+The mean for 5 fold is:
+90.8625281654
+Linear SVM ------------------
+The mean for 2 fold is:
+85.8422290574
+The mean for 3 fold is:
+88.6283934193
+The mean for 4 fold is:
+88.6917645725
+The mean for 5 fold is:
+89.0266028967
+RBF SVM ------------------
+The mean for 2 fold is:
+62.0861226705
+The mean for 3 fold is:
+82.1321337248
+The mean for 4 fold is:
+81.4433728099
+The mean for 5 fold is:
+88.9714651752
+Decision Tree ------------------
+The mean for 2 fold is:
+87.5520173693
+The mean for 3 fold is:
+90.8810576473
+The mean for 4 fold is:
+90.9173441639
+The mean for 5 fold is:
+91.0168613944
+Random Forest ------------------
+The mean for 2 fold is:
+84.1053012484
+The mean for 3 fold is:
+85.1182518952
+The mean for 4 fold is:
+82.3854854279
+The mean for 5 fold is:
+83.1903460894
+AdaBoost ------------------
+The mean for 2 fold is:
+84.4671612086
+The mean for 3 fold is:
+89.9491340062
+The mean for 4 fold is:
+89.7319990541
+The mean for 5 fold is:
+90.3924229122
+Naive Bayes ------------------
+The mean for 2 fold is:
+58.2594535915
+The mean for 3 fold is:
+57.5537940541
+The mean for 4 fold is:
+57.5538023646
+The mean for 5 fold is:
+57.5537450551
+Linear Discriminant Analysis ------------------
+The mean for 2 fold is:
+85.18183463
+The mean for 3 fold is:
+87.09949905
+The mean for 4 fold is:
+87.063329227
+The mean for 5 fold is:
+87.5519850357
+HTML Javascript features removed--------
+Nearest Neighbors ------------------
+The mean for 2 fold is:
+83.8881852723
+The mean for 3 fold is:
+91.2516506403
+The mean for 4 fold is:
+92.3459675954
+The mean for 5 fold is:
+94.0742277915
+Linear SVM ------------------
+The mean for 2 fold is:
+90.5102225439
+The mean for 3 fold is:
+91.9757323343
+The mean for 4 fold is:
+92.0299964698
+The mean for 5 fold is:
+92.2562342545
+RBF SVM ------------------
+The mean for 2 fold is:
+64.9267233581
+The mean for 3 fold is:
+80.8926495742
+The mean for 4 fold is:
+78.9100518376
+The mean for 5 fold is:
+86.6915238698
+Decision Tree ------------------
+The mean for 2 fold is:
+90.9263614981
+The mean for 3 fold is:
+91.4600573286
+The mean for 4 fold is:
+91.8038683597
+The mean for 5 fold is:
+92.1477147377
+Random Forest ------------------
+The mean for 2 fold is:
+86.1950425185
+The mean for 3 fold is:
+89.225602321
+The mean for 4 fold is:
+88.981223088
+The mean for 5 fold is:
+85.6332733699
+AdaBoost ------------------
+The mean for 2 fold is:
+90.5011760449
+The mean for 3 fold is:
+92.2199337927
+The mean for 4 fold is:
+92.4370251038
+The mean for 5 fold is:
+92.8713323551
+Naive Bayes ------------------
+The mean for 2 fold is:
+63.7416319884
+The mean for 3 fold is:
+60.8919031336
+The mean for 4 fold is:
+60.8739314426
+The mean for 5 fold is:
+60.4937795596
+Linear Discriminant Analysis ------------------
+The mean for 2 fold is:
+89.8950606115
+The mean for 3 fold is:
+91.4691079201
+The mean for 4 fold is:
+91.5233728675
+The mean for 5 fold is:
+91.767747032
+Domain based features removed--------
+Nearest Neighbors ------------------
+The mean for 2 fold is:
+88.854713226
+The mean for 3 fold is:
+92.5637531423
+The mean for 4 fold is:
+92.3737176133
+The mean for 5 fold is:
+93.6765452867
+Linear SVM ------------------
+The mean for 2 fold is:
+91.5415234304
+The mean for 3 fold is:
+91.4691545726
+The mean for 4 fold is:
+91.4059042296
+The mean for 5 fold is:
+91.4149859505
+RBF SVM ------------------
+The mean for 2 fold is:
+74.063687353
+The mean for 3 fold is:
+90.1482101878
+The mean for 4 fold is:
+90.880801348
+The mean for 5 fold is:
+91.9576326512
+Decision Tree ------------------
+The mean for 2 fold is:
+91.9395693866
+The mean for 3 fold is:
+91.6501074727
+The mean for 4 fold is:
+92.1386919512
+The mean for 5 fold is:
+92.0210670219
+Random Forest ------------------
+The mean for 2 fold is:
+88.0857608106
+The mean for 3 fold is:
+90.184537779
+The mean for 4 fold is:
+89.3975028192
+The mean for 5 fold is:
+89.7411339027
+AdaBoost ------------------
+The mean for 2 fold is:
+91.9938483807
+The mean for 3 fold is:
+92.7357021034
+The mean for 4 fold is:
+92.5819589594
+The mean for 5 fold is:
+92.6633512814
+Naive Bayes ------------------
+The mean for 2 fold is:
+60.3311018636
+The mean for 3 fold is:
+59.8967677652
+The mean for 4 fold is:
+59.607349522
+The mean for 5 fold is:
+59.6525026042
+Linear Discriminant Analysis ------------------
+The mean for 2 fold is:
+91.4962909354
+The mean for 3 fold is:
+91.6862730077
+The mean for 4 fold is:
+91.722510427
+The mean for 5 fold is:
+91.7496843221
+

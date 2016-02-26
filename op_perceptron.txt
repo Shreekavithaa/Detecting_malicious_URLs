@@ -1,0 +1,36 @@
+Address bar features removed----------
+The accuracy for 2 th fold is: 73.9279898679 
+
+The accuracy for 3 th fold is: 79.9436633828 
+
+The accuracy for 4 th fold is: 77.4474651601 
+
+The accuracy for 5 th fold is: 83.1641545461 
+
+Abnormal features removed------
+The accuracy for 2 th fold is: 77.1666365117 
+
+The accuracy for 3 th fold is: 78.0160199889 
+
+The accuracy for 4 th fold is: 76.5056798987 
+
+The accuracy for 5 th fold is: 81.5542607817 
+
+HTML Javascript features removed--------
+The accuracy for 2 th fold is: 79.7539352271 
+
+The accuracy for 3 th fold is: 88.7913335307 
+
+The accuracy for 4 th fold is: 87.7597836409 
+
+The accuracy for 5 th fold is: 88.1760346765 
+
+Domain based features removed--------
+The accuracy for 2 th fold is: 86.1679030215 
+
+The accuracy for 3 th fold is: 91.2339521424 
+
+The accuracy for 4 th fold is: 88.4474616246 
+
+The accuracy for 5 th fold is: 87.6698694925 
+
